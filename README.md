@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohit7461
+- 👋 Hi, I’m Rohit Kumar Mahato
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Frontend development.
 - 💞️ I’m looking to collaborate on JavaScript Projects
