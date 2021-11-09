@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Kumar Mahato
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Frontend development.
+- 🌱 I’m currently learning FullStack Web Development.
 - 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me mahator99@gmail.com
 
